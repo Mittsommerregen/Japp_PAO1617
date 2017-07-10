@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="avatar.png">./img/avatar.png</file>
+        <file alias="icon.png">./img/icon.png</file>
+	<file alias="productDatabase.xml">./model/productDatabase.xml</file>
+	<file alias="userDatabase.xml">./model/userDatabase.xml</file>
+    </qresource>
+</RCC>

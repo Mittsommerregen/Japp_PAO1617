@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prodotti>
+    <Videogame-Base>
+        <Nome>Mario Party 10</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>7</PEGI>
+        <Piattaforma>Wii U</Piattaforma>
+        <Genere>Party Game</Genere>
+        <Remake>0</Remake>
+        <Dimensione>20</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>Crash Bandicoot</Nome>
+        <Sviluppatore>Activision</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>7</PEGI>
+        <Piattaforma>PlayStation 4</Piattaforma>
+        <Genere>Action</Genere>
+        <Remake>0</Remake>
+        <Dimensione>15</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>GTA V</Nome>
+        <Sviluppatore>Rockstar Games</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>18</PEGI>
+        <Piattaforma>PlayStation 4</Piattaforma>
+        <Genere>Action</Genere>
+        <Remake>0</Remake>
+        <Dimensione>66</Dimensione>
+    </Videogame-Base>
+    <Videogame-Limited>
+        <Nome>GTA V</Nome>
+        <Sviluppatore>Rockstar Games</Sviluppatore>
+        <DataPubblicazione>2017.07.07</DataPubblicazione>
+        <PEGI>18</PEGI>
+        <Piattaforma>PlayStation 4</Piattaforma>
+        <Genere>Arcade</Genere>
+        <Remake>0</Remake>
+        <Steelbook>1</Steelbook>
+        <DLC>1</DLC>
+        <ActionFigure>1</ActionFigure>
+        <SoundTrack>1</SoundTrack>
+        <ExtraContents>Mappa </ExtraContents>
+        <ArtbookPages>15</ArtbookPages>
+    </Videogame-Limited>
+    <Videogame-Base>
+        <Nome>Rayman Legends</Nome>
+        <Sviluppatore>Ubisoft</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>7</PEGI>
+        <Piattaforma>PlayStation 4</Piattaforma>
+        <Genere>Platform</Genere>
+        <Remake>1</Remake>
+        <Dimensione>33</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>Final Fantasy XII</Nome>
+        <Sviluppatore>Square Enix</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>16</PEGI>
+        <Piattaforma>PlayStation 4</Piattaforma>
+        <Genere>Sparatutto</Genere>
+        <Remake>0</Remake>
+        <Dimensione>70</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>Super Mario Odyssey</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>3</PEGI>
+        <Piattaforma>Nintendo Switch</Piattaforma>
+        <Genere>Platform</Genere>
+        <Remake>0</Remake>
+        <Dimensione>60</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>Mario Kart 8 Deluxe</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>3</PEGI>
+        <Piattaforma>Nintendo Switch</Piattaforma>
+        <Genere>Simulazione</Genere>
+        <Remake>1</Remake>
+        <Dimensione>44</Dimensione>
+    </Videogame-Base>
+    <Videogame-Base>
+        <Nome>The Legend of Zelda</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.09</DataPubblicazione>
+        <PEGI>12</PEGI>
+        <Piattaforma>Nintendo Switch</Piattaforma>
+        <Genere>Action</Genere>
+        <Remake>1</Remake>
+        <Dimensione>58</Dimensione>
+    </Videogame-Base>
+    <Console-NewGeneration>
+        <Nome>PlayStation 4 </Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wireless</TecnologiaController>
+        <HardDisk>500 GB</HardDisk>
+        <RisoluzioneMassima>1080p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>1</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>PlayStation 4</Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wireless</TecnologiaController>
+        <HardDisk>1 TB</HardDisk>
+        <RisoluzioneMassima>1080p</RisoluzioneMassima>
+        <ColoreConsole>Bianco</ColoreConsole>
+        <EdizioneSpeciale>1</EdizioneSpeciale>
+        <Supporto4k>1</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>XBOX One S</Nome>
+        <Sviluppatore>Microsoft</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wireless</TecnologiaController>
+        <HardDisk>500 GB</HardDisk>
+        <RisoluzioneMassima>1080p</RisoluzioneMassima>
+        <ColoreConsole>Bianco</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>1</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>XBOX One S</Nome>
+        <Sviluppatore>Microsoft</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wireless</TecnologiaController>
+        <HardDisk>1 TB</HardDisk>
+        <RisoluzioneMassima>1080p</RisoluzioneMassima>
+        <ColoreConsole>Bianco</ColoreConsole>
+        <EdizioneSpeciale>1</EdizioneSpeciale>
+        <Supporto4k>1</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>XBOX 360</Nome>
+        <Sviluppatore>Microsoft</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>250 GB</HardDisk>
+        <RisoluzioneMassima>720p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>0</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>PlayStation 3</Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wireless</TecnologiaController>
+        <HardDisk>250 GB</HardDisk>
+        <RisoluzioneMassima>720p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>0</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>PlayStation 2</Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>576p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>0</Supporto4k>
+    </Console-NewGeneration>
+    <Console-NewGeneration>
+        <Nome>PlayStation 1</Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>480p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Supporto4k>0</Supporto4k>
+    </Console-NewGeneration>
+    <Console-RetroConsole>
+        <Nome>NES</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>240p/QVGA</RisoluzioneMassima>
+        <ColoreConsole>Grigio</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Bit>8</Bit>
+    </Console-RetroConsole>
+    <Console-RetroConsole>
+        <Nome>SNES</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.07</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>240p/QVGA</RisoluzioneMassima>
+        <ColoreConsole>Grigio</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Bit>16</Bit>
+    </Console-RetroConsole>
+    <Console-RetroConsole>
+        <Nome>Sega Mega Drive</Nome>
+        <Sviluppatore>SEGA</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>240p/QVGA</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Bit>16</Bit>
+    </Console-RetroConsole>
+    <Console-RetroConsole>
+        <Nome>PlayStation</Nome>
+        <Sviluppatore>Sony</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>360p</RisoluzioneMassima>
+        <ColoreConsole>Grigio</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Bit>32</Bit>
+    </Console-RetroConsole>
+    <Console-RetroConsole>
+        <Nome>Nintendo 64</Nome>
+        <Sviluppatore>Nintendo</Sviluppatore>
+        <DataPubblicazione>2017.07.04</DataPubblicazione>
+        <TecnologiaController>Wired</TecnologiaController>
+        <HardDisk>Inferiore a 100 GB</HardDisk>
+        <RisoluzioneMassima>480p</RisoluzioneMassima>
+        <ColoreConsole>Nero</ColoreConsole>
+        <EdizioneSpeciale>0</EdizioneSpeciale>
+        <Bit>32</Bit>
+    </Console-RetroConsole>
+</Prodotti>

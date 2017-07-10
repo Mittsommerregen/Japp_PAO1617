@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Utenti>
+    <Admin>
+        <Nickname>admin</Nickname>
+        <Password>admin</Password>
+        <Nome>admin</Nome>
+        <Cognome>admin</Cognome>
+    </Admin>
+    <UserPremium>
+        <Nickname>Mutiny</Nickname>
+        <Password>mutiny</Password>
+        <Nome>Cameron</Nome>
+        <Cognome>Howe</Cognome>
+    </UserPremium>
+    <UserBase>
+        <Nickname>Kotiomkin</Nickname>
+        <Password>corazzata</Password>
+        <Nome>Ugo</Nome>
+        <Cognome>Fantozzi</Cognome>
+    </UserBase>
+    <UserPremium>
+        <Nickname>giulia</Nickname>
+        <Password>giulia</Password>
+        <Nome>Giulia</Nome>
+        <Cognome>Amato</Cognome>
+    </UserPremium>
+    <UserBase>
+        <Nickname>DT</Nickname>
+        <Password>imcool</Password>
+        <Nome>Donald John</Nome>
+        <Cognome>Trump</Cognome>
+    </UserBase>
+    <UserPremium>
+        <Nickname>bettercallSaul</Nickname>
+        <Password>mcGill</Password>
+        <Nome>Saul</Nome>
+        <Cognome>Goodman</Cognome>
+    </UserPremium>
+</Utenti>
